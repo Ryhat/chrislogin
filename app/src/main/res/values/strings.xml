@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chrislogin</string>
+    <string name="login">登陆</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="go_registering">还没账号，去注册</string>
+    <string name="go_login">还没账号，去登陆</string>
+    <string name="register">注册</string>
+    <string name="password2">请再次输入</string>
+    <string name="eamil">邮箱</string>
+</resources>
